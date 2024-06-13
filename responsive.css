@@ -6,6 +6,9 @@
     font-size: 17px;
     animation: shine 59s infinite linear;
   }
+  #minicircle {
+    display: none;
+  }
   @-moz-keyframes shine {
     0% {
       background-position: 0;
