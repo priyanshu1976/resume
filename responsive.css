@@ -9,6 +9,13 @@
   #minicircle {
     display: none;
   }
+  lottie-player {
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    top: -51px;
+    right: -80px;
+  }
   @-moz-keyframes shine {
     0% {
       background-position: 0;
@@ -54,7 +61,7 @@
     }
   }
   .desc {
-    margin-right: 3px;
+    margin-right: 42px;
   }
   #profile {
     width: 74%;
